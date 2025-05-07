@@ -46,5 +46,5 @@ The main tables include:
 
 ## 5. 🧩 Entity-Relationship Diagram (ERD)
 
-![ERD Diagram](./clinic_database.png)
+![ERD Diagram for Clinic_database](clinic_database.png)
 

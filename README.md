@@ -1,1 +1,1 @@
-# clinic-db
+# Clinic Booking System
